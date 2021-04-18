@@ -1,2 +1,2 @@
 # blog-img
-Image for my private blog
+Images for my personal blog
