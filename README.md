@@ -1,2 +1,2 @@
-# blog-img
-Images for my personal blog
+# 图床
+由于国内网络变化问题已不再新增图片（半停用状态）
